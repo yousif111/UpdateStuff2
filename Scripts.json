@@ -17,7 +17,7 @@
       "title":"Anti-AFK",
       "credits": "by Rice",
       "desc" : "A simple Anti-AFK script.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind"))()",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind/"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
    },
    {
