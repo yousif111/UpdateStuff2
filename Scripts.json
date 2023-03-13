@@ -14,13 +14,6 @@
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/AltDelete.png"
    },
    {
-      "title":"Anti-AFK",
-      "credits": "by Rice",
-      "desc" : "A simple Anti-AFK script.",
-      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind/"))()",
-      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png"
-   },
-   {
       "title":"Audio logger",
       "credits": "by bit8bit @ v3rm",
       "desc" : "A simple audio logger. Kinda useless due to Roblox's audio privacy update.",
