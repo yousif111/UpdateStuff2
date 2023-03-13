@@ -18,7 +18,7 @@
       "title":"Anti Afk",
       "credits": "by unknown",
       "desc" : "Hold down left alt and click on the part you want to delete. Very simple tool.",
-      "script":"loadstring(game:HttpGet("https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind", true))()",
+      "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/AltDelete.png"
    },
    {
