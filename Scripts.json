@@ -14,6 +14,14 @@
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/AltDelete.png"
    },
    {
+      
+      "title":"Anti Afk",
+      "credits": "by unknown",
+      "desc" : "Hold down left alt and click on the part you want to delete. Very simple tool.",
+      "script":"loadstring(game:HttpGet("https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind", true))()",
+      "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/GeneralScripts/AltDelete.png"
+   },
+   {
       "title":"Audio logger",
       "credits": "by bit8bit @ v3rm",
       "desc" : "A simple audio logger. Kinda useless due to Roblox's audio privacy update.",
